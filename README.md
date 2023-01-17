@@ -1,4 +1,4 @@
-# Deep Virtual Try-on with Clothes Transform
+# Deep Virtual Try-on with Clothes Transform Using Ld models Avatar.
 Source code for paper "Deep Virtual Try-on with Clothes Transform"
 <img height="300" src="https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform/blob/master/readme_img/introduction.png">
 
