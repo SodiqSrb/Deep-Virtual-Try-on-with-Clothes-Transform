@@ -16,6 +16,8 @@ Install dependencies using pip.
 ```shell
 pip install -r requirements.txt
 ```
+##The main aim and objective of Wear-create is ability for users to provide virtual clothes as the input data and then their system automatically try-on the subjected data on different avatars of various standards 
+
 
 ## Step1: CAGAN 
 <img height="200" src="https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform/blob/master/readme_img/CAGAN.png">
