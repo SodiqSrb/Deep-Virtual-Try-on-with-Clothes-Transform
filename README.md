@@ -1,6 +1,6 @@
 # Deep Virtual Try-on with Clothes Transform Using 3d models Avatar.
 Source code for paper "Deep Virtual Try-on with Clothes Transform"
-<img height="300" src="https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform/blob/master/readme_img/introduction.png">
+<img height="300" src=![IMG-20230118-WA0000](https://user-images.githubusercontent.com/114579958/213151565-c6d69783-3a76-4d7e-b80e-1e9b50db8d0d.jpg)
 
 ## Overall Architecture
 <img height="500" src="https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform/blob/master/readme_img/All.png">
@@ -75,7 +75,7 @@ python Testing_with_fixed_data.py
 
 
 ## Step2: Segmentation ##
-<img height="200" src="https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform/blob/master/readme_img/segmentation.png">
+<img height="200" src=![IMG-20230118-WA0001](https://user-images.githubusercontent.com/114579958/213151971-e59e903d-8e38-4657-aadf-715349d4960e.jpg)
 
 ### code ###
 https://github.com/Engineering-Course/LIP_SSL
@@ -88,7 +88,7 @@ https://github.com/Engineering-Course/LIP_SSL
 
 
 ## Step3: Transform ##
-<img height="100" src="https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform/blob/master/readme_img/warping.png">
+<img height="100" ![IMG-20230117-WA0056](https://user-images.githubusercontent.com/114579958/213150347-8a9069bd-2954-4325-b541-f79205ff726f.jpg)
 
 ### code and data ###
 
