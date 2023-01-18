@@ -86,8 +86,8 @@ python Testing_with_fixed_data.py
 <img height="200" src=![IMG-20230118-WA0001](https://user-images.githubusercontent.com/114579958/213151971-e59e903d-8e38-4657-aadf-715349d4960e.jpg)
 
 ### code ###
-https://github.com/Engineering-Course/LIP_SSL
-
+https://github.com/SodiqSrb/Deep-Virtual-Try-on-with-Clothes-Transform
+     
 * Modify mask: `modify_mask.m`
 
 * Save the masks file to png file: `show.m`
