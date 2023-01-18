@@ -1,4 +1,10 @@
 # Deep Virtual Try-on with Clothes Transform Using 3d models Avatar.
+# Wear-create is a 3D model and analysis tool focused on creating 3D wearables for different models of all standards.
+ # We decided to build a very basic prototype for 3D model and scene generative AI using Adversarial Network by implementing Nvidia instant. 3D content consumption is set to increase dramatically as the Metaverse, augmented reality, virtual reality and mixed reality become more mainstream.
+#  This increases the need for 3D models, and presents a golden opportunity for 3D creators. Generative AI — if used appropriately and equitably — has the potential to greatly increase creator productivity. 
+# We believed that by overcoming the complexity issues inherent in 3D data, we could unlock 3D’s greatest advantage: It is incredibly data rich. This could mean that a fairly small amount of 3D models could be used to create or influence entirely new generated models. In other words: A creator’s own past work could be leveraged in the development of new work. This would make the 3D models and scenes not only more valuable to the user, but also overcome risks associated with using 3rd party data.
+
+
 Source code for paper "Deep Virtual Try-on with Clothes Transform"
 <img height="300" src=![IMG-20230118-WA0000](https://user-images.githubusercontent.com/114579958/213151565-c6d69783-3a76-4d7e-b80e-1e9b50db8d0d.jpg)
 
