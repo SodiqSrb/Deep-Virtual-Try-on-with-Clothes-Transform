@@ -131,7 +131,7 @@ python Testing_unet.py
 
 
 ## Step4: Combination ##
-<img height="200" src="https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform/blob/master/readme_img/combine.png">
+<img height="200" ![IMG-20230117-WA0055](https://user-images.githubusercontent.com/114579958/213144243-4d49c259-5dae-4fa2-93e6-5ba975171fd1.jpg)
 
 ### code ###
 `Combine_image.m`
